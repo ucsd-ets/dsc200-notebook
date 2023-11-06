@@ -1,4 +1,4 @@
-# COURSE Jupyter notebook
+# DSC 200 Jupyter notebook
 
 ## Automated Builds
 
