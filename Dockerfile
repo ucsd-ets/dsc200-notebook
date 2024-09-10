@@ -15,7 +15,7 @@ USER root
 
 #xarray, netCDF, and dask 
 #RUN apt-get -y install htop
-RUN pip install xarray netCDF4 dask
+RUN pip install xarray netCDF4 dask[complete]
 
 # 3) install packages using notebook user
 USER jovyan
